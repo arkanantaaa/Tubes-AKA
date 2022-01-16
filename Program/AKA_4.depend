@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1642306590 source:e:\pelajaran kuliah\semester 3\struktur data\codeblock\aka_4\main.cpp
+	<iostream>
+	"header.h"
+
+1642306490 e:\pelajaran kuliah\semester 3\struktur data\codeblock\aka_4\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+	<bits/stdc++.h>
+
+1642306585 source:e:\pelajaran kuliah\semester 3\struktur data\codeblock\aka_4\sorting.cpp
+	"header.h"
+
+1642326263 source:d:\aka_4\aka_4\main.cpp
+	<iostream>
+	"header.h"
+
+1642335041 d:\aka_4\aka_4\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+	<bits/stdc++.h>
+
+1642335236 source:d:\aka_4\aka_4\sorting.cpp
+	"header.h"
+
